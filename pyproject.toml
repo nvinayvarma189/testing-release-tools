@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "grimoirelab-release-tools"
-version = "0.3.0"
+version = "0.4.0"
 description = "Set of tools to generate GrimoireLab releases."
 authors = [
     "Santiago Dueñas <sduenas@bitergia.com>"
