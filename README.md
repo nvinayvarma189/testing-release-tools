@@ -24,8 +24,8 @@ This package allows us to:
 
 ## Requirements
 
- * Python >= 3.6
- * Poetry >= 1.0
+ * [Python >= 3.6](https://www.python.org/downloads/release/python-360/)
+ * [Poetry >= 1.0](https://python-poetry.org/)
 
 
 ## Installation
