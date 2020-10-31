@@ -42,7 +42,7 @@ Once you have installed it, you can download the source code with git:
 $ git clone https://github.com/Bitergia/release-tools
 ```
 
-Move to the directory and install the software and the dependencies:
+Move to the directory and install the software and all its dependencies:
 
 ```
 $ cd release-tools
