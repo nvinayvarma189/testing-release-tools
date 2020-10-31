@@ -347,4 +347,4 @@ changelog entry notes to the repository.
 
 ## License
 
-Licensed under GNU General Public License (GPL), version 3 or later.
+Licensed under [GNU General Public License (GPL), version 3](https://github.com/vchrombie/testing-release-tools/blob/main/README.md) or later.
