@@ -239,7 +239,7 @@ $ notes "MyApp" 0.2.0 --dry-run
 ### publish
 
 This script will generate a new release in the repository.
-This will consist on creating a commit and a tag with the
+This will consist of creating a commit and a tag with the
 new release notes and the updated version files.
 
 To run it, you'll need to provide the version number and
