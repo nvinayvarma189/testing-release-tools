@@ -10,7 +10,7 @@ These tools are based in the way GitLab project generates its
 releases. You have more information about their motivation
 [here](https://gitlab.com/gitlab-org/gitlab-foss/issues/17826).
 
-This software is licensed under GPL3 or later.
+This software is licensed under [GPL3](https://github.com/nvinayvarma189/testing-release-tools/blob/main/LICENSE) or later.
 
 
 ## Features
